@@ -1,4 +1,4 @@
-# Personalized-Medicine-Machine-Learning
+# Personalized Medicine : Redefining Cancer Treatment - Machine-Learning
 
 A lot has been said during the past several years about how precise the medicine is and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated.
 
